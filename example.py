@@ -1,5 +1,4 @@
 import requests
-#first change
 # Making a GET request
 r = requests.get("https://jsonplaceholder.typicode.com/posts/1")
 
