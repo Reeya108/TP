@@ -6,6 +6,5 @@ r = requests.get("https://jsonplaceholder.typicode.com/posts/1")
 # check status code for response received
 # success code - 200
 print(r)
-#line no.9 ----make content
 # print content of request
 print(r.content)
